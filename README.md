@@ -1,3 +1,24 @@
+Only just started playing. 
+
+[some notes](https://github.com/danja/T-Watch-2020/blob/master/wave-notes.md)
+
+
+for :
+
+https://www.banggood.com/LILYGO-TTGO-T-Watch-2020-ESP32-Main-Chip-1_54-Inch-Touch-Display-Programmable-Wearable-Environmental-Interaction-Watch-p-1671427.html
+
+based on :
+
+https://github.com/sharandac/My-TTGO-Watch
+
+see also :
+
+https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library
+
+----
+
+from https://github.com/sharandac/My-TTGO-Watch
+
 # My-TTGO-Watch
 
 A smartwatch based on ESP32 from LlyGo. Currently under development.
